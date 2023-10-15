@@ -33,6 +33,11 @@ a {
   text-decoration: none;
   color: var(--color-link);
 }
+a:hover {
+  text-decoration: underline;
+  background-color: var(--color-link-bg);
+  font-weight: bold;
+}
 
 img {
   vertical-align: baseline;
@@ -58,6 +63,8 @@ aside nav ul {
 
   a:hover {
     opacity: 0.5;
+    background-color: var(--gray-200);
+    font-weight: normal;
   }
 
   ul {
@@ -88,6 +95,11 @@ ul.pagination {
 .book-brand {
   margin-top: 0;
   margin-bottom: $padding-16;
+
+  a:hover {
+    background: none;
+    font-weight: normal;
+  }
 
   img {
     height: 1.5em;

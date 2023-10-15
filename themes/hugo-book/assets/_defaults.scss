@@ -34,8 +34,9 @@ $hint-colors: (
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --color-link: #01792b;
-  --color-visited-link: #01792b; //#8440f1;
+  --color-link: #008080;
+  --color-visited-link: #008080; //#8440f1;
+  --color-link-bg: #9FE2BF;
 
   --body-background: white;
   --body-font-color: black;
@@ -54,6 +55,7 @@ $hint-colors: (
 
   --color-link: #84ffbb;
   --color-visited-link: #84ffbb; //#b88dff;
+  --color-link-bg: #9FE2BF;
 
   --body-background: #343a40;
   --body-font-color: #e9ecef;
