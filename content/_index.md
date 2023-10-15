@@ -1,5 +1,5 @@
 ---
-title: Wiki Template
+title: HugoBookWiki Template
 type: docs
 linkedArticles: [
     "example",
