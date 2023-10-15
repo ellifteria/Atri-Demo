@@ -1,3 +1,3 @@
-# Hugo Book Wiki Template w/ Backlinks
+# Het-Hert Demo Site: A Hugo Book Wiki Theme w/ Backlinks
 
 Modification of the [Hugo Book theme](https://github.com/alex-shpak/hugo-book) to allow for backlinks.

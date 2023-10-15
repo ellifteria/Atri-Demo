@@ -1,0 +1,3 @@
+[submodule "themes/het-hert"]
+	path = themes/het-hert
+	url = git@github.com:ellifteria/hugo-het-hert

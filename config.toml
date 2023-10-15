@@ -1,6 +1,6 @@
-baseURL = 'www.example.com'
-title = "HugoBookWiki Template"
-theme = 'hugo-book'
+baseURL = 'https://elliberes.me/Het-Hert-Demo/'
+title = "Het Hert Demo"
+theme = 'het-hert'
 
 disablePathToLower = true
 enableGitInfo = true
