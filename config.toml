@@ -1,6 +1,6 @@
-baseURL = 'https://elliberes.me/Het-Hert-Demo/'
-title = "Het Hert Demo"
-theme = 'het-hert'
+baseURL = 'https://elliberes.me/Atri-Demo/'
+title = "Atri Demo"
+theme = 'atri'
 
 disablePathToLower = true
 enableGitInfo = true

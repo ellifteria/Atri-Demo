@@ -1,5 +1,5 @@
 ---
-title: HugoBookWiki Template
+title: Atri Theme Demo
 type: docs
 linkedArticles: [
     "example",
@@ -8,7 +8,7 @@ linkedArticles: [
 ]
 ---
 
-# Wiki Template
+# Atri Theme Demo
 
 - [Example]({{< ref "example" >}} "Example")
 - [Example 1]({{< ref "example/example1" >}} "Example 1")

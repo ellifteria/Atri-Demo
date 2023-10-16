@@ -1,3 +1,6 @@
 [submodule "themes/het-hert"]
 	path = themes/het-hert
 	url = git@github.com:ellifteria/hugo-het-hert
+[submodule "themes/atri"]
+	path = themes/atri
+	url = git@github.com:ellifteria/hugo-het-hert
